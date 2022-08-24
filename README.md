@@ -1,2 +1,3 @@
-# Generation - Módulo 1
-atividades módulo 1
+# Generation - Aulas
+
+Atividades desenvolvidas nas aulas da Generation. 
